@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(182, 246, 255);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+ footer {
+    text-align: center;
+  }
+ 
+  footer {
+    background-color: #373738;
+  }
+
